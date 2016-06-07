@@ -1,14 +1,15 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Hi there! I'm...
+bio:                'Brian Sinclair'
+description:        "Think you can, and you''ll try. Believe you can, and you will"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/me.png'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+# url:                http://www.sinclairbrian.com
+url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   sinclairbrian
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,18 +39,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            bpjsincl
+facebook:           believeyoucanyouwill
+github:             bpjsincl
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           sinclairbrian
 #xing:              username
-instagram:          username
+instagram:          bpjsincl
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
