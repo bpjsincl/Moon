@@ -12,6 +12,7 @@ posts_page:         false
 projects_page:      false
 # url:                http://www.sinclairbrian.com
 url:                http://localhost:4000
+blog_url:           https://believeyoucanyouwill.wordpress.com/
 
 # Jekyll
 permalink:          /:title/
