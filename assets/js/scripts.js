@@ -24,9 +24,11 @@ $(document).ready(function() {
     if ($(".wrapper").hasClass('fadeOut')) {
         $(".wrapper").removeClass("fadeOut").addClass("fadeIn");
     }
-    $(".zoombtn").click(function() {
+    $(".zoombtn").mousedown(function(e) {
+    if (e.which === 1 && ! e.ctrlKey) {
         $(".container").removeClass("fadeIn").addClass("fadeOut");
         $(".wrapper").removeClass("fadeIn").addClass("fadeOut");
+    }
     });
     // go up button
     $.goup({
