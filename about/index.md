@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, Resume]
+tags: [about, resume]
 date: 2016-06-06
 ---
     
@@ -12,4 +12,4 @@ I am a  Systems Design Engineer with experience in software engineering, data sc
 
 Send me a note if you want to work on a project together!
 
-## Resume
+You can also find my resume <a href="{{ site.url }}/assets/files/Brian Sinclair.pdf"><b>here</b></a>.
