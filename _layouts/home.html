@@ -35,12 +35,15 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/about">
                          About
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
+                         <a target="_blank" class="btn zoombtn" href="https://believeyoucanyouwill.wordpress.com/">
+                         Travel Blog
+                         </a>
+                         {% if site.posts_page %} <a class="btn zoombtn" href="{{ site.url }}/posts">
                          Posts
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
+                         </a> {% endif %}
+                         {% if site.projects_page %}<a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
-                         </a>
+                         </a> {% endif %}
                  </h3>
             </div>
         </div>

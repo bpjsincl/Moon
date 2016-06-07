@@ -1,6 +1,6 @@
 # Site
-title:              Hi there! I'm...
-bio:                'Brian Sinclair'
+title:              Brian Sinclair
+bio:                'Climber. Cyclist. Homebrewer. Data Scientist.'
 description:        "Think you can, and you''ll try. Believe you can, and you will"
 reading_time:       true
 words_per_minute:   200
@@ -8,6 +8,8 @@ logo:               'assets/img/me.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+posts_page:         false
+projects_page:      false
 # url:                http://www.sinclairbrian.com
 url:                http://localhost:4000
 
@@ -38,7 +40,7 @@ disqus_shortname:   sinclairbrian
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              sinclair.brian@gmail.com
 twitter:            bpjsincl
 facebook:           believeyoucanyouwill
 github:             bpjsincl

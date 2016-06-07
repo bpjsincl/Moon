@@ -4,3 +4,4 @@ _site/
 
 Misc
 *.txt
+/node_modules
