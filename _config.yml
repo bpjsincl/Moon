@@ -34,9 +34,9 @@ disqus_shortname:   sinclairbrian
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-51266637-2
   #verify:
   #ad-client:
   #ad-slot:
