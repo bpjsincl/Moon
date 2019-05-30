@@ -1,6 +1,6 @@
 # Site
 title:              Brian Sinclair
-bio:                'Climber. Cyclist. Homebrewer. Data Scientist.'
+bio:                'Product Manager. Climber. Cyclist. Homebrewer.'
 description:        "Think you can, and you''ll try. Believe you can, and you will"
 reading_time:       true
 words_per_minute:   200
@@ -42,7 +42,7 @@ google:
   #ad-slot:
 #bing-verify:
 email:              sinclair.brian@gmail.com
-twitter:            bpjsincl
+# twitter:            bpjsincl
 facebook:           believeyoucanyouwill
 github:             bpjsincl
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
